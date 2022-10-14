@@ -10,9 +10,7 @@ public class DuplicateWord {
                     System.out.println("Повторяющийся символ:" + chars[j]);
                     break;
                 }
-
             }
         }
-
     }
 }
